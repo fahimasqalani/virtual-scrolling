@@ -1,3 +1,9 @@
+Sample practice for applying virtual scrolling and drag/drop using Angular CDK
+
+
+npm install @angular/cdk@7.0.4
+
+
 # VirtualScrolling
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
